@@ -5,7 +5,7 @@ html{
     line-height: 1.5;
     font-size: 16px;
     }
-    header p{
+    p.site-title{
         text-transform: uppercase;
         font-style: bold;
         font-size: xx-large;
